@@ -3,7 +3,7 @@
 
 This is a small yet complex project which is to be developed using HTML, CSS, Reactjs for frontend and PHP for backend. Also, some C++ maybe required to handle the server requests(custom).
 
-##Details
+## Details
 The product will have three pages:
 Login -  Where a user can login into his version  of webpad
 Profile - Where a user can view his notes.
