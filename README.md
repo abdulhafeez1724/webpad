@@ -5,8 +5,11 @@ This is a small yet complex project which is to be developed using HTML, CSS, Re
 
 ## Details
 The product will have three pages:
-Login -  Where a user can login into his version  of webpad
-Profile - Where a user can view his notes.
-Create Notes - Where a user can create and save notes.
+
+**Login** -  Where a user can login into his version  of webpad
+
+**Profile** - Where a user can view his notes.
+
+**Create Notes** - Where a user can create and save notes.
 
 
