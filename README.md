@@ -12,4 +12,15 @@ The product will have three pages:
 
 **Create Notes** - Where a user can create and save notes.
 
+## Directory Structure
+**Assests folder** - Contains images, logos and icons.
+
+**Controllers** - Contains files used to process requests, mapping user/systems queries to database.
+
+**Common** - Contains master page files, mainly header and footer. Page header and footer has to be same throughout the development cycle, so inorder to reuse code, the idea of master page has to employed.
+
+**CSS** -  Contains all the styling, *.css* files.
+
+**JS** - Contains javascript files.
+
 
