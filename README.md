@@ -13,7 +13,7 @@ The product will have three pages:
 **Create Notes** - Where a user can create and save notes.
 
 ## Directory Structure
-**Assests folder** - Contains images, logos and icons.
+**Assests** - Contains images, logos and icons.
 
 **Controllers** - Contains files used to process requests, mapping user/systems queries to database.
 
