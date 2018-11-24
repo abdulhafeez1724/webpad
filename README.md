@@ -1,5 +1,5 @@
 # Webpad
-10 day collaborative project for getting good at Web development (anyone can join). Webpad is a web app that can be used to save notes, no matter how big they are. 
+10 day collaborative project for getting good at Web development (anyone can join). Webpad is a web app that can be used to save notes online, no matter how big they are. 
 
 This is a small yet complex project which is to be developed using HTML, CSS, Reactjs for frontend and PHP for backend. Also, some C++ maybe required to handle the server requests(custom).
 
@@ -23,4 +23,11 @@ The product will have three pages:
 
 **JS** - Contains javascript files.
 
+
+## Database 
+The databse (tentatively) has two tables:
+
+**Session** - Has columns ID, Username, Password
+
+**Profile** - Has columns ID, Username, Notes, Drafts
 
